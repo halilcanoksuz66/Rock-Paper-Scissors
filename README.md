@@ -39,3 +39,14 @@ Oyunun mantığını içeren dosyadır. Kullanıcı hareketini alır, bilgisayar
    ```bash
    git clone https://github.com/kullaniciadi/rock-paper-scissors.git
    cd rock-paper-scissors
+   
+Tarayıcıda açmak için:
+
+```sh
+index.html dosyasını tarayıcıda açın
+```
+
+**📩 İletişim**
+
+Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, benimle iletişime geçmekten çekinmeyin!
+
